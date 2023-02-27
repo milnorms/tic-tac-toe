@@ -9,13 +9,15 @@ To run this program, you need to have a C++ compiler installed on your system. T
 ## Compiling
 
 To compile the program on macOS, navigate to the project directory and run the following command in your terminal:
-       gcc main.cpp -lstdc++
+
+`gcc main.cpp -lstdc++`
 
 
 ## Running
 
 To run the program, type the following command in your terminal:
-       ./a.out
+
+`./a.out`
 
 
 
